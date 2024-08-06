@@ -1,0 +1,55 @@
+body{
+	background: pink;
+	color: white;
+}
+
+a:hover{
+  colore:black;
+  background: white;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+h1{
+	font-family: serif;
+}
+h2{
+	font-family: monospace;
+}
+p{
+	font-family: fantasy;
+}
+ol{
+	font-family: sans-serif;
+}
+li{
+	font-family: cursive;
+}
+.new{
+	margin-left: 50px;
+}
+.try{
+	margin-bottom:35px ;
+}
+.ohhh{
+      color: black;
+}
+.color:hover{
+	color:skyblue;
+	background: white;
+
+}
+
+.hagrb{
+    color:blue;
+
+}
+
+.sec{
+   color: darkred;
+   font-family: cursive;
+   scroll-margin-right: !important;
+}
